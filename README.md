@@ -1,6 +1,6 @@
 # Digital Literacy Portfolio
 ## Name: Dhruv Bajpai
-## Reg no: 25BCE11234
+## Reg no: 25BCE10895
 ## Course: CSE0001 - Digital Literacy
 
 ## Project Overview
