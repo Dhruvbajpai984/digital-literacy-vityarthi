@@ -35,7 +35,7 @@ The project demonstrates how digital technologies can be used effectively for **
 
 ---
 
-## 📂 Project Tasks
+##  Project Tasks
 
 ###  Task 1: Infographic
 - Designed a digital literacy awareness infographic using Canva  
