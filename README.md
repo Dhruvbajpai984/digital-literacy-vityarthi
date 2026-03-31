@@ -13,7 +13,7 @@
 ##  Project Overview
 This repository contains my **Digital Literacy Portfolio**, created as part of the academic curriculum. It highlights my understanding and practical application of essential digital tools, communication practices, and cybersecurity concepts.
 
-The project demonstrates how digital technologies can be used effectively for **learning, collaboration, and professional growth**, which are crucial skills in today’s digital world. :contentReference[oaicite:0]{index=0}  
+The project demonstrates how digital technologies can be used effectively for **learning, collaboration, and professional growth**, which are crucial skills in today’s digital world. :contentReference 
 
 ---
 
